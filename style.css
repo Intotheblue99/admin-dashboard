@@ -56,6 +56,24 @@ p {
     column-gap: 50px;
 }
 
+#sbicon{
+    background-color: white;
+    border-radius: 50px;
+    text-align: center;
+}
+#searchbar {
+    background-color: white;
+    border-radius: 10px;
+    height: 23px;
+    border: 1px solid black;
+}
+#hextra {
+    background-color: white;
+    border-radius: 50px;
+    width: 30px;
+    text-align: center;
+}
+
 .hicon {
     border: 1px solid black;
     /* column-gap: 20px; */
