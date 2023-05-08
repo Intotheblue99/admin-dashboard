@@ -155,6 +155,25 @@ button {
     height: 200px;
     width: 350px;
     border-radius: 10px;
+    text-indent: 30px;
+}
+.mainliner {
+    color: black;
+    position: absolute;
+    top: 100px;
+    left: 270px;
+}
+.anliner {
+    color: black;
+    position: absolute;
+    top: 100px;
+    right: 310px;
+}
+.trliner {
+    color: black;
+    position: absolute;
+    right: 380px;
+    top: 455px;
 }
 
 
