@@ -162,7 +162,16 @@ button {
     border-radius: 10px;
     text-indent: 30px;
 }
-
+.anbox::before {
+    background-color: red;
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    height: 100%; 
+    width: 10px;
+    border-radius: 10px;   
+}
 .trending {
     position: absolute;
     right: 130px;
@@ -174,6 +183,16 @@ button {
     width: 350px;
     border-radius: 10px;
     text-indent: 30px;
+}
+.trbox::before {
+    background-color: red;
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    height: 100%; 
+    width: 10px;
+    border-radius: 10px;   
 }
 .mainliner {
     color: black;
